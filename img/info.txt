@@ -1,0 +1,5 @@
+This Folder Includeds All the Image assests for SimpleFeed
+----------------------------------------------------
+
+*/hugo-artificial-intelligence.png
+*/Author: https://icons8.com
