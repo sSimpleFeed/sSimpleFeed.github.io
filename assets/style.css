@@ -1,3 +1,31 @@
-html, body {
+#yourDigest {
+  z-index: 3;
+  width: 673px;
+  height: 527px;
+  color: #c2f748;
+  font-family: "Rubik Mono One";
+  font-size: 96px;
+  font-weight: 400;
+  line-height: 119px;
+}
+
+     html {
+
+  z-index: 2;
+  width: 1500px;
+  height: 1000px;
+  background-color:  #00000000;
+         }
+
+         .img2 {
+               z-index: 3;
+  width: 703px;
+  height: 527.25px;
+             flex:none;
+         }
+
+
+html {
   background-color: #00000000;
+  color: #ffffff;
 }
