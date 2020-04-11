@@ -25,7 +25,8 @@ Website : [Demo](https://www.SimpleFeed.rocks/)
 ## Show your support
 
 Give a ⭐️ if this project helped you!
-<a href="https://www.buymeacoffee.com/arav" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee" style="height: 51px !important;width: 217px !important;" ></a>
+<br>
+<a href="https://www.buymeacoffee.com/arav" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-blue.png" alt="Buy Me A Coffee" style="height: 25px !important;width: 131px !important;" ></a>
 
 
 ***
