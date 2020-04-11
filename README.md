@@ -16,11 +16,11 @@ Website : [Demo](https://www.SimpleFeed.rocks/)
 
 ## Author
 
-👤 ** Arav Narurula**
+👤  **Arav Narula**
 
 * Website: [AravNarula.com](aravnarula.com/)
-* Twitter: [@Trougeg](https://twitter.com/TrougeG)
-* Github: [@Iamamtregsthedev](https://github.com/Iamtregsthedev)
+* Twitter: [@TrougeG](https://twitter.com/TrougeG)
+* Github: [@Iamtregsthedev](https://github.com/Iamtregsthedev)
 
 ## Show your support
 
