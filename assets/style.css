@@ -24,3 +24,9 @@
   height: 527.25px;
              flex:none;
          }
+
+
+body, html {
+  background-color: #00000000;
+  color: #ffffff;
+}
