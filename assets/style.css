@@ -1,6 +1,6 @@
-/* We're working with the body tag, and so with the WHOLE page */
-body
-{
+html {
+    /* We're working with the body tag, and so with the WHOLE page */
+
     background-color: black; /* The page background will be black */
     color: white; /* The page text will be white */
 }
