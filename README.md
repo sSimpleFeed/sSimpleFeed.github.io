@@ -9,7 +9,7 @@
   </a>
 </p>
 
-> SimpleleFeFeed  is a News App To Blocj Media Bias and a Better NeNewsws
+> We're Creating a Better News App to Battle Fake News and Bias!
 
 ### ✨ [Demo]
 Website : [Demo](https://www.SimpleFeed.rocks/)
