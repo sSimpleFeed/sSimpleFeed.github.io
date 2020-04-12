@@ -1,26 +1,6 @@
+html {
+    /* We're working with the body tag, and so with the WHOLE page */
 
-#yourDigest {
-  z-index: 3;
-  width: 673px;
-  height: 527px;
-  color: #c2f748;
-  font-family: "Rubik Mono One";
-  font-size: 96px;
-  font-weight: 400;
-  line-height: 119px;
+    background-color: black; /* The page background will be black */
+    color: white; /* The page text will be white */
 }
-     
-     html {
-         #surfaceBoo {
-  z-index: 2;
-  width: 1500px;
-  height: 1000px;
-  background: #1F1F1F
-         }
-
-         .img2 {
-               z-index: 3;
-  width: 703px;
-  height: 527.25px;
-             flex:none;
-         }
